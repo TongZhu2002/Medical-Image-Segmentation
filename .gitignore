@@ -1,0 +1,6 @@
+# IDE
+.vscode
+*.zarr
+*.pt
+lightning_logs
+__pycache__
